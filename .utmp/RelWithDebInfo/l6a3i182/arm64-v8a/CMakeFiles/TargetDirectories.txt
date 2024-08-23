@@ -1,0 +1,5 @@
+C:/Users/Mert Can/UnityProjects/15 Puzzles/.utmp/RelWithDebInfo/l6a3i182/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Mert Can/UnityProjects/15 Puzzles/.utmp/RelWithDebInfo/l6a3i182/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Mert Can/UnityProjects/15 Puzzles/.utmp/RelWithDebInfo/l6a3i182/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Mert Can/UnityProjects/15 Puzzles/.utmp/RelWithDebInfo/l6a3i182/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Mert Can/UnityProjects/15 Puzzles/.utmp/RelWithDebInfo/l6a3i182/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
